@@ -21,4 +21,4 @@ You can see the live demo of the website here:
 -   HTML
 -   CSS
 -   Javascript
--   Boostrap
+-   Bootstrap
