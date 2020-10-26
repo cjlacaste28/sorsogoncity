@@ -6,7 +6,7 @@ This redesign website was developed as part of my coding bootcamp at Kodigo Code
 
 You can see the live demo of the website here:
 
-[(https://cjlacaste28.github.io/shortlist-clone/)](https://cjlacaste28.github.io/shortlist-clone/)
+[(https://cjlacaste28.github.io/sorsogoncity/)](https://cjlacaste28.github.io/sorsogoncity/)
 
 # <p align="center"><img src="assets/images/sorsogoncity-mockup.png"></p>
 
