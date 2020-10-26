@@ -10,15 +10,14 @@ You can see the live demo of the website here:
 
 # <p align="center"><img src="assets/images/sorsogoncity-mockup.png"></p>
 
-## Authors
-
-- [Christian Lacaste](https://christianlacaste.me/)
-- [Jerryson Guillen](https://github.com/jerrysonguillen)
-
-
 ## Technologies
 
 -   HTML
 -   CSS
 -   Javascript
 -   Bootstrap
+
+## Authors
+
+- [Christian Lacaste](https://christianlacaste.me/)
+- [Jerryson Guillen](https://github.com/jerrysonguillen)
